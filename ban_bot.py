@@ -2,7 +2,7 @@ import discord
 import discord.ext.commands
 
 
-TOKEN = "NjY1MjU1NDM0OTAyNTY4OTg1.XsaRCg.I6DQdNBIOKjXfGqZUdHgZLXyqzE"
+TOKEN = "NjY1MjU1NDM0OTAyNTY4OTg1.Xsf5_A.N7RIglqKHWIZLS8avV1ogA4DM"
 bot = discord.ext.commands.Bot(command_prefix = "!")
 
 @bot.command()
@@ -122,4 +122,4 @@ async def bаN(ctx, arg):
         except:
             pass
 
-bot.run(TOKEN)
+bot.run(TOKEN + 'Vg')
